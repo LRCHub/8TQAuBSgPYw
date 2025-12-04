@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Soranji (~The White Lounge Version~ / Live)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-04T09:26:07.274468Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Soranji (~The White Lounge Version~ / Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_Soranji_(~The_White_Lounge_Version~___Live)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Soranji(The White Lounge Version)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Soranji(The_White_Lounge_Version)_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
